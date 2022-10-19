@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Todo App Filter</string>
+    <string name="dropdown_hint">Select User</string>
+    <string name="todo_title">TODO List</string>
+</resources>
